@@ -8,7 +8,7 @@ data = pd.DataFrame({
     'Departure Port': ['Miami', 'Fort Lauderdale', 'Orlando', 'Tampa', 'Galveston', 'Baltimore', 'New Orleans', 'San Juan', 'Ravenna', 'Rome', 'Barcelona', 'Los Angeles', 'Hong Kong', 'Singapore', 'Athens', 'Colon', 'Boston', 'Cape Liberty', 'Seattle', 'Southampton', 'Sydney', 'Venice', 'Oahu', 'Tokyo', 'San Diego', 'Lisbon', 'Cartagena', 'Brisbane', 'Shanghai',],
     'Ship': ['Harmony of the Seas', 'Symphony of the Seas', 'Wonder of the Seas', 'Quantum of the Seas', 'Allure of the Seas', 'Freedom of the Seas', 'Oasis of the Seas', 'Odyssey of the Seas', 'Anthem of the Seas', 'Jewel of the Seas', 'Liberty of the Seas', 'Independence of the Seas', 'Ovation of the Seas', 'Icon of the Seas', 'Mariner of the Seas', 'Spectrum of the Seas', 'Utopia of the Seas', 'Brilliance of the Seas', 'Serenade of the Seas', 'Legend of the Seas', 'Star of the Seas', 'Explorer of the Seas', 'Grandeur of the Seas', 'Navigator of the Seas', 'Adventure of the Seas', 'Enchantment of the Seas', 'Radiance of the Seas', 'Voyager of the Seas', 'Rhapsody of the Seas', ],
     'Sailing Date': ['2025-09-15', '2025-10-01', '2025-10-20', '2025-11-01', '2025-12-01', '2026-01-01', '2026-02-01', '2026-03-01', '2026-04-01','2026-05-01', '2026-06-01', '2026-07-01', '2026-08-01', '2026-09-01', '2026-10-01', '2026-11-01', '2026-12-01', '2027-01-01', '2027-02-01', '2027-03-01', '2027-04-01', '2027-05-01', '2027-06-01', '2027-07-01', '2027-08-01', '2027-09-01', '2027-10-01', '2027-11-01', '2027-12-01', ],
-    'Suite': ['Junior Suite', 'Owner’s Suite', 'Grand Suite', 'Royal Loft', ]
+    'Suite': ['Junior Suite', 'Owner\'s Suite', 'Grand Suite', 'Royal Suite', 'Royal Loft']
     'Price (USD)': [1200, 2400, 3600, 4800, 5200, 12000, 15000]
 })
 
